@@ -1,0 +1,1 @@
+This is a toy application based an Andrej karpathy's nano-gpt
